@@ -1,7 +1,7 @@
 ### Hello! I'm Amanda Neves! 👋 
 <p>
 	<a href="https://www.linkedin.com/in/amanda-neves-3b6023aa/" target="_blank">
-		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>&nbsp;
 	<a href = "mailto:amandaneves.carmo@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -36,6 +36,6 @@
 
 <div>
   <a href="https://github.com/amandaneves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaneves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=amandaneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaneves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
