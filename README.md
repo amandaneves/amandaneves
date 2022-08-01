@@ -11,31 +11,24 @@
 	</a>
 </p>
 
-#### Tools and Technologies
+### Skills
 <p>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,php,laravel,html,css,tailwind,pug,js,jquery,vuejs,mysql,postgresql,redis,idea,vscode,linux" />
+  </a>
 </p>
 
-#### I am learning
+### I am learning
 <p>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="35" height="35"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" height="35"/> 
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,angular,ts" />
+  </a>
 </p>
+
+#
 
 <div>
   <a href="https://github.com/amandaneves">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=amandaneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaneves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandaneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaneves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
