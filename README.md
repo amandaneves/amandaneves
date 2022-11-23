@@ -14,14 +14,14 @@
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,java,hibernate,php,laravel,html,css,sass,tailwind,bootstrap,pug,js,jquery,vuejs,mysql,postgres,redis,idea,maven,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,java,hibernate,php,laravel,html,css,sass,tailwind,bootstrap,pug,js,jquery,vuejs,angular,mysql,postgres,redis,idea,maven,vscode,linux" />
   </a>
 </p>
 
 ### I am learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,react,ts" />
+    <img src="https://skillicons.dev/icons?i=spring,react,ts" />
   </a>
 </p>
 
