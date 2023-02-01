@@ -21,7 +21,7 @@
 ### I am learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,ts" />
+    <img src="https://skillicons.dev/icons?i=spring,react,ts,nodejs" />
   </a>
 </p>
 
